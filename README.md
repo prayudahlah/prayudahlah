@@ -10,9 +10,11 @@
 ## Languages and Tools:
 
 <div>
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" width="40" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" width="40" />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" width="40" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo" width="40" />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo" width="40" />
   <img width="4" />
