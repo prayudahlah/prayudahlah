@@ -20,6 +20,8 @@
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo" width="40" />
   <img width="4" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgres logo" width="40" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" width="40" />
 </div>
 
