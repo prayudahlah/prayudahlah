@@ -7,24 +7,6 @@
   <img src="https://github-readme-stats-six-sand-83.vercel.app/api?username=prayudahlah&show_icons=true&theme=tokyonight" alt="My Github Stats"/>
 </div>
 
-## Languages and Tools:
-
-<div>
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" width="40" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" width="40" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo" width="40" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo" width="40" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo" width="40" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgres logo" width="40" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" width="40" />
-</div>
-
 ## 
 
 <picture>
